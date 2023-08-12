@@ -1,7 +1,7 @@
 pipeline {
   agent any
   environment {
-    APPSYSID = '4a929b921ba0f51070961fc11a4bcb2c'
+    APPSYSID = '96405f900b20220050192f15d6673af9'
     BRANCH = "${BRANCH_NAME}"
     CREDENTIALS = 'f8e0a369-7928-4979-a809-3e74453fe611'
     DEVENV = 'https://navigissb3.service-now.com/'
